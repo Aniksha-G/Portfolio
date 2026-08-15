@@ -37,13 +37,13 @@ Coming soon
 
 A web-based quiz application designed to provide an interactive and user-friendly experience for answering questions and viewing quiz results.
 
-**Technologies:** HTML, CSS, JavaScript, React, MongoDB
-
-### Restaurant Website
-
-A responsive restaurant website with a modern interface for showcasing the restaurant, menu, services, and contact information.
-
 **Technologies:** HTML, CSS, JavaScript
+
+### E-Commerce Website
+
+A responsive e-commerce website inspired by modern online shopping platforms, featuring product browsing, categories, search, and shopping functionality.
+
+**Technologies:** React, JavaScript, HTML, CSS, Vite
 
 ### Personal Portfolio
 
@@ -65,4 +65,4 @@ Make sure you have the following installed:
 Clone the repository:
 
 ```bash
-git clone https://github.com/Aniksha-G/Aniksha.git
+git clone https://github.com/Aniksha-G/Portfolio.git
